@@ -6,9 +6,8 @@ Test GET ดึงข้อมูลทุกประเทศ<br>
 Test GET Independent <br>
 <img width="1617" height="1008" alt="image" src="https://github.com/user-attachments/assets/73b004ba-56d8-4ae6-971a-da100959b4b6" />
 Test GET Independent โดยเอาแค่ language กับ capital <br>
-Test GET ภาษา <br>
 <img width="1628" height="992" alt="image" src="https://github.com/user-attachments/assets/6d97cb00-5dd1-45c3-a04f-d094ec603eb1" />
-
+Test GET ภาษา <br>
 <img width="1623" height="1008" alt="image" src="https://github.com/user-attachments/assets/52b3f15e-58ad-4a94-a706-d43539de7422" />
 Test GET ด้วยชื่อ <br>
 <img width="1625" height="1006" alt="image" src="https://github.com/user-attachments/assets/3370c625-b119-4e8d-90eb-12e85d84fdf5" />
